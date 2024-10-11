@@ -267,7 +267,7 @@ To access and use the Colab notebook, follow these steps:
    
    - .. raw:: html
 
-      <a target="_blank" href="https://colab.research.google.com/github/TrossenRobotics/aloha_docs/blob/main/docs/images/LeRobot_Notebook.ipynb">
+      <a target="_blank" href="https://colab.research.google.com/github/TrossenRobotics/aloha_docs/blob/main/docs/files/LeRobot_Notebook.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
       </a>
 
